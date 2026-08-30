@@ -44,27 +44,31 @@ I'm particularly interested in:
 
 ## 🚀 Featured Projects
 
-### 🖥️ [CHIP-8 Emulator](https://github.com/ArchanjoGabriel/chip8-emulator)
+### 🎮 [Pong 2D](...)
 
-A CHIP-8 emulator built from scratch in C++ to explore **emulation, computer architecture and low-level concepts**.
+A fully playable 2D Pong game built with C++20 and SFML.
+Features real-time input, collision detection, scoring,
+audio feedback and a CMake-based build system.
+
+`C++` · `SFML` · `CMake`
+
+---
+
+### 🖥️ [CHIP-8 Emulator](...)
+
+A CHIP-8 emulator built in C++ to explore emulation,
+computer architecture and low-level concepts.
 
 `C++`
 
 ---
 
-### 🧩 [InterIF — Competitive Programming](https://github.com/ArchanjoGabriel/interif-maratona)
+### 🧩 [InterIF — Competitive Programming](...)
 
-Solutions to competitive programming problems, focusing on **algorithms, data structures and problem-solving**.
+Solutions to competitive programming problems,
+focusing on algorithms, data structures and problem-solving.
 
 `C++` · `Algorithms` · `Data Structures`
-
----
-
-### 🎮 [Pong 2D](https://github.com/ArchanjoGabriel/pong-2d-cpp)
-
-A Pong implementation in C++ exploring fundamental concepts of **game development and real-time programming**.
-
-`C++` · `Game Development`
 
 ---
 
