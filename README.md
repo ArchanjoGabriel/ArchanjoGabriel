@@ -75,7 +75,7 @@ focusing on algorithms, data structures and problem-solving.
 ## 📚 Currently Learning
 
 C++ · Algorithms · Computer Architecture ·
-Backend Development · Emulation
+Backend/Frontend Development · Emulation
 
 ---
 
